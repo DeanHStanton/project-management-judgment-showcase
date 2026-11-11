@@ -34,4 +34,4 @@ My project-management teaching and leadership experience applied to quality asse
 
 This overview intentionally excludes private examples, assessment materials, and implementation details.
 
-[Back to Dean H. Stanton's GitHub profile](https://github.com/deanstanton-a11y)
+[Back to Dean H. Stanton's GitHub profile](https://github.com/DeanHStanton)
